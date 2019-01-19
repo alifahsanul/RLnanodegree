@@ -26,7 +26,7 @@
 		* Mac OSX: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana.app.zip)
 		* Windows (32-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86.zip)
 		* Windows (64-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Windows_x86_64.zip)
-3. Then, place the file in the p1_navigation/ folder in the DRLND GitHub repository, and unzip (or decompress) the file. p1_navigation/ folder is from DRLND (step 1).
+3. Place the Unity Environment file from step 2 in the p1_navigation/ folder in the DRLND GitHub repository, and unzip (or decompress) the file. p1_navigation/ folder is from DRLND (step 1).
 
 ## Instruction
 1. Open Navigation.ipynb to start training the agent.
