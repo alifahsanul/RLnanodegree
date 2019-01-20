@@ -11,7 +11,7 @@ This report explains the method used to solve the Banana Navigation Project and 
   * Learning Rate &alpha; = 5 &times; 10<sup>-4</sup>
 
 ## Plof of Rewards
-The agent was trained for 604 episodes before reaching 13 average score for 100 consecutive episodes.
+The agent was trained for 704 episodes before reaching 13 average score for 100 consecutive episodes.
 ![alt text](https://github.com/alifahsanul/RLnanodegree/blob/master/banana_catcher/image/Score.jpg)
 
 Trained agent at play:
