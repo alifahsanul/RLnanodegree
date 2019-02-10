@@ -1,6 +1,6 @@
 # Deep Reinforcement Learning Project 1
 # Unity Banana Navigation
-![alt text](https://github.com/alifahsanul/banana_navigation/blob/master/image/environment.PNG)
+![alt text](https://raw.githubusercontent.com/alifahsanul/banana_navigation/master/image/environment.PNG)
 ## Project Details
 * This project is the first mandatory project in Udacity Deep Reinforcement Learning Nanodegree.
 * The goal is to train an agent to play a game where the agent has to collect as many yellow banana as possible and avoiding blue banana. The rewards are as follows:
